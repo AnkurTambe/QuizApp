@@ -1,2 +1,8 @@
 # QuizApp
-ANDROID STUDIO CardView|ProgressBar|style|Button|string|AlertDialog|DialogInterface|
+
+General Qiz Organizer
+
+ANDROID STUDIO 
+CardView|ProgressBar|style|Button|string|AlertDialog|DialogInterface|
+
+*APK is the Release section*
